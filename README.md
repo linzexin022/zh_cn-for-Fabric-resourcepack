@@ -1,1 +1,1 @@
-# zh_cn-for-Fabric-resourcepack
+# This is the Chinese (simplified) translation resource pack project for Fabric mods, aiming at adding, correcting Chinese (simplified) translations. I welcome players who have the ability to translate it into Chinese with faithfulness, expressiveness and elegance. If you have better suggestions (whether it's right or not), just speak out!
