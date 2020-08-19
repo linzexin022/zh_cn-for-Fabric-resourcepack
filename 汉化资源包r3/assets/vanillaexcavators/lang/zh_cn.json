@@ -1,0 +1,30 @@
+{
+    "itemGroup.vanillaexcavators.group": "原版大铲",
+  
+    "item.vanillaexcavators.wooden_excavator": "木制大铲",
+    "item.vanillaexcavators.stone_excavator": "石制大铲",
+    "item.vanillaexcavators.iron_excavator": "铁制大铲",
+    "item.vanillaexcavators.golden_excavator": "金制大铲",
+    "item.vanillaexcavators.diamond_excavator": "钻石大铲",
+    "item.vanillaexcavators.netherite_excavator": "下界合金大铲",
+    "item.vanillaexcavators.emerald_excavator": "绿宝石大铲",
+    "item.vanillaexcavators.obsidian_excavator": "黑曜石大铲",
+    "item.vanillaexcavators.lapis_excavator": "青金石大铲",
+    "item.vanillaexcavators.quartz_excavator": "石英大铲",
+    "item.vanillaexcavators.tater_excavator": "小塔特大铲",
+    "item.vanillaexcavators.fiery_excavator": "炽烈大铲",
+    "item.vanillaexcavators.prismarine_excavator": "海晶石大铲",
+    "item.vanillaexcavators.slime_excavator": "史莱姆大铲",
+    "item.vanillaexcavators.ender_excavator": "下界大铲",
+  
+    "item.vanillaexcavators.vibranium_excavator": "Vibranium Excavator",
+    "item.vanillaexcavators.glowstone_excavator": "Glowstone Excavator",
+    "item.vanillaexcavators.nether_excavator": "Nether Excavator",
+  
+    "text.autoconfig.vanillaexcavators.option.enableExtraMaterials": "其他原版材质的大铲",
+    "text.autoconfig.vanillaexcavators.option.durabilityModifier": "大铲耐久修改器",
+    "text.autoconfig.vanillaexcavators.category.default": "通用",
+    "text.autoconfig.vanillaexcavators.title": "原版大铲配置",
+  
+    "item.vanillaexcavators.dynagear_excavator": "%s铲"
+  }

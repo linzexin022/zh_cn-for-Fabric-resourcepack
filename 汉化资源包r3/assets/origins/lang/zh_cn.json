@@ -1,0 +1,185 @@
+{
+    "origin.origins.human.name": "人类",
+    "origin.origins.human.description": "一个普通的人类。普通的《我的世界》体验等着你来探索！",
+  
+    "origin.origins.merling.name": "人鱼族",
+    "origin.origins.merling.description": "这些海洋中的自然居民不习惯没水的环境。",
+  
+    "origin.origins.arachnid.name": "蛛形纲",
+    "origin.origins.arachnid.description": "它们的攀爬能力和用蜘蛛网诱捕敌人的能力使它们成为完美的猎手。",
+  
+    "origin.origins.blazeborn.name": "烈焰族",
+    "origin.origins.blazeborn.description": "作为烈焰人的后裔，烈焰族免疫下界的自然危险因素。",
+  
+    "origin.origins.avian.name": "鸟人族",
+    "origin.origins.avian.description": "鸟人早已失去飞行的能力。现在可以看到这个人畜无害的种族到处滑翔。",
+  
+    "origin.origins.phantom.name": "幻影族",
+    "origin.origins.phantom.description": "作为人与幻翼的后代，这个种族可以在幻影和正常形态之间切换。",
+  
+    "origin.origins.feline.name": "菲林族",
+    "origin.origins.feline.description": "菲林像猫一样的外表能吓跑苦力怕。继承了猫科动物的灵巧，他们总是安全着地。",
+  
+    "origin.origins.elytrian.name": "翼人族",
+    "origin.origins.elytrian.description": "他们常常在风里翱翔，它们在密闭空间里会感到不舒服。",
+  
+    "origin.origins.enderian.name": "末影族",
+    "origin.origins.enderian.description": "作为末影龙的子女，末影族能够随心所欲地传送，但他们居然怕水。",
+  
+    "origin.origins.shulk.name": "潜影族",
+    "origin.origins.shulk.description": "作为潜影贝的后代，潜影族的身体上都有一层壳状的皮肤。",
+  
+    "power.origins.water_breathing.name": "鳃式呼吸",
+    "power.origins.water_breathing.description": "你能在水下呼吸，但陆地上8行。",
+  
+    "power.origins.aqua_affinity.name": "水之亲和",
+    "power.origins.aqua_affinity.description": "你可以在水下以正常速度挖掘。",
+  
+    "power.origins.water_vision.name": "水下视觉",
+    "power.origins.water_vision.description": "你有完美的水下视觉。",
+  
+    "power.origins.swim_speed.name": "大海之子",
+    "power.origins.swim_speed.description": "你游得很快。",
+  
+    "power.origins.like_water.name": "不争浮沉",
+    "power.origins.like_water.description": "你在水下可以自由移动。",
+  
+    "power.origins.fragile.name": "脆弱",
+    "power.origins.fragile.description": "你比人类少3颗心。",
+  
+    "power.origins.webbing.name": "网捕",
+    "power.origins.webbing.description": "当你近战击中敌人时，他们会陷入网中。",
+  
+    "power.origins.climbing.name": "攀爬",
+    "power.origins.climbing.description": "你可以爬上任何类型的墙，而不仅仅是梯子。",
+  
+    "power.origins.carnivore.name": "肉食动物",
+    "power.origins.carnivore.description": "你的饮食只限于肉，不能吃蔬菜。",
+  
+    "power.origins.fire_immunity.name": "业火之子",
+    "power.origins.fire_immunity.description": "你对所有类型的火焰伤害免疫。",
+  
+    "power.origins.nether_spawn.name": "栖息于下界",
+    "power.origins.nether_spawn.description": "你将在下界出生。",
+  
+    "power.origins.burning_wrath.name": "燃拳",
+    "power.origins.burning_wrath.description": "你在着火状态的攻击造成额外伤害。",
+  
+    "power.origins.hotblooded.name": "热血沸腾",
+    "power.origins.hotblooded.description": "你的炽身热体使你免疫中毒和饥饿状态带来的负面影响。",
+  
+    "power.origins.water_vulnerability.name": "畏水",
+    "power.origins.water_vulnerability.description": "你在接触水的时候会受到持续伤害。",
+  
+    "power.origins.tailwind.name": "顺风",
+    "power.origins.tailwind.description": "你比他人迅捷。",
+  
+    "power.origins.slow_falling.name": "羽量级",
+    "power.origins.slow_falling.description": "只要不蹲下，你就会像羽毛一样轻轻地掉到地上。",
+  
+    "power.origins.vegetarian.name": "素食主义者",
+    "power.origins.vegetarian.description": "你没法消化肉。",
+  
+    "power.origins.fresh_air.name": "新鲜空气",
+    "power.origins.fresh_air.description": "你的床需要在至少86格，这样你睡觉时才能呼吸到新鲜空气。",
+  
+    "power.origins.phasing.name": "幻相",
+    "power.origins.phasing.description": "幻影化使你可以穿过大部分方块。",
+  
+    "power.origins.invisibility.name": "隐身",
+    "power.origins.invisibility.description": "幻影化使你隐身。",
+  
+    "power.origins.hunger_over_time.name": "快速新陈代谢",
+    "power.origins.hunger_over_time.description": "幻影化消耗更多能量。",
+  
+    "power.origins.burn_in_daylight.name": "光敏性",
+    "power.origins.burn_in_daylight.description": "你在光照下燃烧。",
+  
+    "power.origins.fall_immunity.name": "安全着陆",
+    "power.origins.fall_immunity.description": "你不会受到坠落伤害。",
+  
+    "power.origins.sprint_jump.name": "跳高健将",
+    "power.origins.sprint_jump.description": "你跑步时跳得更高。",
+  
+    "power.origins.nine_lives.name": "九条命",
+    "power.origins.nine_lives.description": "你只有9颗心",
+  
+    "power.origins.cat_vision.name": "夜视",
+    "power.origins.cat_vision.description": "你可以在黑暗中微弱看清东西。",
+  
+    "power.origins.weak_arms.name": "史蒂夫·罗杰斯",
+    "power.origins.weak_arms.description": "当不受力量药水影响时，只有相邻两个天然石类方块的天然石类方块才能被开采。",
+  
+    "power.origins.scare_creepers.name": "跟个猫一样",
+    "power.origins.scare_creepers.description": "“你不要过来啊！”苦力怕如是想到。",
+  
+    "power.origins.launch_into_air.name": "风之礼遇",
+    "power.origins.launch_into_air.description": "隔30秒你就能上一次天。",
+  
+    "power.origins.elytra.name": "带翅儿的",
+    "power.origins.elytra.description": "你自带鞘翅。",
+  
+    "power.origins.light_armor.name": "轻装上阵",
+    "power.origins.light_armor.description": "你穿不了重甲（>锁子甲的）。",
+  
+    "power.origins.claustrophobia.name": "幽闭恐怖症",
+    "power.origins.claustrophobia.description": "快把害怕二字打在天花板上。",
+  
+    "power.origins.more_kinetic_damage.name": "骨质酥松",
+    "power.origins.more_kinetic_damage.description": "你会摔得贼痛。",
+  
+    "power.origins.aerial_combatant.name": "空战",
+    "power.origins.aerial_combatant.description": "你在飞行状态时会造成巨量伤害。",
+  
+    "power.origins.throw_ender_pearl.name": "传送",
+    "power.origins.throw_ender_pearl.description": "只要你想去，你就能传到。",
+  
+    "power.origins.pumpkin_hate.name": "跟个南瓜一样",
+    "power.origins.pumpkin_hate.description": "快把害怕二字刻在南瓜上。",
+  
+    "power.origins.extra_reach.name": "细长的身体",
+    "power.origins.extra_reach.description": "您可以碰到达更远的方块和实体。",
+  
+    "power.origins.shulker_inventory.name": "屯户",
+    "power.origins.shulker_inventory.description": "你可以获得额外的9个位置的库存位置，死亡后仍会保留这些位置的物品。",
+  
+    "power.origins.natural_armor.name": "结实的皮肤",
+    "power.origins.natural_armor.description": "即使一丝不挂，你也能收到皮肤的自然保护。",
+  
+    "power.origins.more_exhaustion.name": "胃口大",
+    "power.origins.more_exhaustion.description": "你新陈代谢比别人快得多。",
+  
+    "power.origins.no_shield.name": "不灵巧",
+    "power.origins.no_shield.description": "你的手壮过头，因此你无法举起盾牌。",
+  
+    "power.origins.strong_arms.name": "麒麟臂",
+    "power.origins.strong_arms.description": "你不用镐子就能挖石头。",
+  
+    "category.origins": "起源",
+    "key.origins.active_power": "主动技能",
+    "key.origins.view_origin": "查看能力",
+  
+    "item.origins.orb_of_origin": "起源之球",
+  
+    "enchantment.origins.water_protection": "防水",
+  
+    "container.shulker_inventory_power": "潜影盒库存栏",
+  
+    "origins.gui.select": "选择",
+    "origins.gui.close": "关闭",
+    "origins.gui.choose_origin.title": "请选择你的种族",
+    "origins.gui.view_origin.title": "这是你的种族",
+    "origins.gui.impact.impact": "影响",
+    "origins.gui.impact.none": "无",
+    "origins.gui.impact.low": "很小",
+    "origins.gui.impact.medium": "一般",
+    "origins.gui.impact.high": "很大",
+  
+    "death.attack.no_water_for_gills": "%s没能保持湿润。",
+    "death.attack.hurt_by_water": "%s洗太久人没了。",
+  
+    "commands.origin.origin_not_found": "未知种族：%s",
+    "commands.origin.set.success.single": "将%s改编为%s。",
+    "commands.origin.set.success.multiple": "将%s的目标设置为%s。"
+
+}

@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": [
+            {
+                "text": "汉化r3",
+                "color": "blue"
+            },
+            {
+                "translate": "options.resourcepack"
+            },
+            {
+                "text": "\n林二二；Cassia2333",
+                "color": "aqua"
+            }
+        ]
+    }
+} 

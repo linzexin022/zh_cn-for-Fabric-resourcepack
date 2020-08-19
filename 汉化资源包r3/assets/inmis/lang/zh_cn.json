@@ -1,0 +1,31 @@
+{
+    "itemGroup.inmis.backpack": "印弥斯",
+    "item.inmis.blazing_backpack": "炽烈背包",
+
+    "inmis.advancement.baby_backpack.title": "糖果礼品袋",
+    "inmis.advancement.baby_backpack.description": "完美的派对礼物！",
+
+    "inmis.advancement.bejeweled_backpack.title": "给我戴上各种宝石吧",
+    "inmis.advancement.bejeweled_backpack.description": "在你的镀金背包上贴上一些稀有的宝石，让它更加闪亮！",
+
+    "inmis.advancement.blazing_backpack.title": "炽热的替代品",
+    "inmis.advancement.blazing_backpack.description": "在你的背包贴上下界合金，使它对火和熔岩免疫。",
+
+    "inmis.advancement.ender_pouch.title": "哆啦A梦的百宝袋",
+    "inmis.advancement.ender_pouch.description": "把你的手伸进这个袋子里，会使你的手出现在你的末影箱里......",
+
+    "inmis.advancement.endless_backpack.title": "终界",
+    "inmis.advancement.endless_backpack.description": "获得终界背包，以末地能量为燃料。",
+
+    "inmis.advancement.frayed_backpack.title": "入门背包",
+    "inmis.advancement.frayed_backpack.description": "能装的不多，但是我的第一个背包！制作一个皮革背包来扩大你的库存空间。",
+
+    "inmis.advancement.gilded_backpack.title": "镀金扩展",
+    "inmis.advancement.gilded_backpack.description": "镀金来强化你的铁皮背包————金闪闪的噢！",
+
+    "inmis.advancement.plated_backpack.title": "铁皮升级",
+    "inmis.advancement.plated_backpack.description": "用铁锭包住皮革背包，扩大它的存储能力。",
+
+    "inmis.advancement.withered_backpack.title": "凋零扩张",
+    "inmis.advancement.withered_backpack.description": "用击败凋零之王的战利品增强你闪亮的背包。"
+}

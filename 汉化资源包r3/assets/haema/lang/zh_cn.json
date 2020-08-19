@@ -1,0 +1,97 @@
+{
+  "item.haema.vampire_blood": "吸血鬼血液",
+  "item.haema.vampire_blood.desc": "将它放进吸血鬼的血液注射器里......",
+  "item.haema.vampire_blood_injector": "吸血鬼血液注射器",
+  "item.haema.vampire_blood_injector.desc": "你有成为吸血鬼的能力吗？",
+  "item.haema.empty_vampire_blood_injector": "空的吸血鬼注射器",
+  "item.haema.empty_vampire_blood_injector.desc": "如果你很虚弱，你可以用它来恢复正常",
+  "item.haema.vampire_converter": "【调试项目】吸血鬼转换器",
+
+  "block.haema.righteous_banner": "正义旗帜",
+
+  "entity.haema.vampire_hunter": "吸血鬼猎手",
+
+  "key.haema.dash": "吸血鬼冲刺",
+
+  "effect.haema.sunlight_sickness": "见光死",
+  "effect.haema.vampiric_weakness": "吸血鬼型虚弱",
+  "effect.haema.vampiric_strength": "吸血鬼之力",
+
+  "death.attack.bloodLoss": "%1$s失血过多",
+  "death.attack.bloodLoss.player": "%1$s在与 %2$s战斗中失血过多",
+  "death.attack.incompatibleBlood": "%1$s忘了喝力量药水",
+  "death.attack.incompatibleBlood.player": "%1$s在与%2$s的战斗中忘记喝力量药水而死",
+  "death.attack.sunlight": "%1$s被太阳烧死了",
+  "death.attack.sunlight.player": "%1$s在与%2$s的战斗中被太阳烧死",
+
+  "origin.haema.vampire.name": "§4吸血鬼",
+  "origin.haema.vampire.description": "尽管会受到阳光的伤害，但只要吸血鬼有足够的血液，他们在黑暗中就拥有强大的力量。",
+
+  "power.haema.vampire.name": "嗜血的",
+  "power.haema.vampire.description": "你不需要食物，而是喝血来获得营养。用下蹲键+右键点击-人形生物以获得更好的血液。",
+
+  "power.haema.immortality.name": "不朽的",
+  "power.haema.immortality.description": "即使你的生命值降到零，你也不会死——除非受到一些特定的东西伤害，如太阳、闪电和木剑。",
+
+  "power.haema.night_vision.name": "夜视",
+  "power.haema.night_vision.description": "你的视力虽然迟钝、不饱和，但在黑暗中更善于分辨细节。",
+
+  "power.haema.vampiric_strength.name": "吸血鬼之力",
+  "power.haema.vampiric_strength.description": "如果你没有太多的血液，你会很虚弱，但是随着你血液上限的提升，你会变得更强壮，更快，更能抵抗伤害。",
+
+  "power.haema.dash.name": "吸血鬼冲刺",
+  "power.haema.dash.description": "如果你的血浓度足够高，你可以使用(短程)冲刺来传送。",
+
+  "gamerule.category.haema": "血",
+
+  "gamerule.vampiresBurn": "怕光的吸血鬼",
+  "gamerule.vampiresBurn.description": "吸血鬼是否会受到阳光的影响",
+
+  "gamerule.feedCooldown": "吸血鬼进食冷却",
+  "gamerule.feedCooldown.description": "每次吸血鬼进食的间隔(单位：游戏刻)",
+
+  "gamerule.dashCooldown": "冲刺冷却",
+  "gamerule.dashCooldown.description": "每次吸血鬼冲刺的间隔(单位：游戏刻)",
+
+  "gamerule.vampireHunterNoticeChance": "被吸血鬼猎手察觉的几率",
+  "gamerule.vampireHunterNoticeChance.description": "通过吸食而杀死生物时产生吸血鬼猎手小队的几率",
+
+  "bookOfBlood.name": "血之书",
+
+  "bookOfBlood.beginning": "开始",
+  "bookOfBlood.beginning.description": "你的旅程从这里开始......",
+
+  "bookOfBlood.surviving": "求生",
+  "bookOfBlood.surviving.description": "如何像吸血鬼一样活着",
+
+  "bookOfBlood.1.title": "1： 找到吸血鬼之血",
+  "bookOfBlood.1.spotlight.1.text": "$(item)吸血鬼之血/$可以在地牢、庙宇中找到，也可以从与牧师村民的交易中找到。",
+
+  "bookOfBlood.2.title": "2： 制作注射器",
+  "bookOfBlood.2.text.1.text": "一旦你拥有$(item)吸血鬼之血/$你需要把它放入$(item)注射器/$——这是你将用来成为吸血鬼的工具！",
+
+  "bookOfBlood.3.title": "3： 化身为吸血鬼！",
+  "bookOfBlood.3.text.1.text": "变成吸血鬼是一个危险的过程，所以你需要$(thing)力量II/$效果才能存活。当你有$(thing)力量II/$效果时，把$(item)吸血鬼血注射器/$扎进你的身体并变身成吸血鬼吧！",
+
+  "bookOfBlood.4.title": "4： 营养",
+  "bookOfBlood.4.text.1.text": "你可能会注意到，当你变成吸血鬼时，你的视力就不那么饱和了——这是因为你没有足够的$(thing)血液/$。",
+  "bookOfBlood.4.text.2.text": "作为一个吸血鬼，你不再需要食物了-你的饥饿条现在变成了血条。",
+  "bookOfBlood.4.text.3.text": "你可以用$(k:sneak)+$(k:use)从生物身上吸食来获得血——“人形”怪物会献出更好的血。你可以随心所欲地进食，但要小心——如果你吸死它，$(thing)吸血鬼猎手/$可能会注意到你！吸食村民的时候请小心——如果他们醒着注意到你，他们不会很高兴的！",
+  "bookOfBlood.4.spotlight.1.text": "你可以使用$(item)吸血鬼注射器/$和$(item)空的吸血鬼注射器/$随身携带血液。",
+
+  "bookOfBlood.5.title": "5： 警告",
+  "bookOfBlood.5.text.1.text": "$(thing)吸血鬼猎手/$曾经是掠夺者，他们从攻击村庄转向保护村庄免受吸血鬼的威胁。",
+  "bookOfBlood.5.text.2.text": "他们有机会注意到暴徒死于吸血鬼的吸食，如果村民们注意到吸血鬼在吸食他们，他们会叫$(thing)吸血鬼猎手/$来帮忙！",
+  "bookOfBlood.5.text.3.text": "他们有弩，从远处用它攻击你。同时他们还有木剑，可以近距离格斗，所以要小心！",
+
+  "bookOfBlood.6.title": "6： 你的能力",
+  "bookOfBlood.6.text.1.text": "作为一个吸血鬼，你有很多种能力，这些力量随着你的血量的升高而解锁：$(br)——血量为1：吸血鬼型虚弱III$(br)——血量为2：吸血鬼型虚弱II$(br)——血量为3：吸血鬼型虚弱一级$(br)——血量为6：额外接触距离，短跑能力$(br)——血量为8：再生$(br)——血量为10：吸血鬼之力I",
+  "bookOfBlood.6.text.2.text": "$(br)——血量为14：吸血鬼之力II$(br)——血量为19：吸血鬼之力III，冲刺能力$(br)——血量为20：隐身能力",
+  "bookOfBlood.6.text.3.title": "吸血鬼型虚弱",
+  "bookOfBlood.6.text.3.text": "吸血鬼型虚弱是一种状态效果，它会减慢你的速度，削弱你，使你对伤害的抵抗力降低；吸血鬼之力也是一种状态效果，与之相反。",
+  "bookOfBlood.6.text.4.title": "冲刺",
+  "bookOfBlood.6.text.4.text": "冲刺能力是一种短程传送，可以按$(k:haema.dash)来使用。",
+
+  "bookOfBlood.7.title": "7： 你的弱点",
+  "bookOfBlood.7.text.1.text": "吸血鬼只能被某些东西杀死，这些是：$(br)——日光$(br)——闪电$(br)——溺水$(br)——龙息$(br)——虚空$(br)——某些武器如木剑$(br)——使用带有附魔：亡灵杀手的武器攻击"
+}
