@@ -1,1 +1,2 @@
 # This is the Chinese (simplified) translation resource pack project for Fabric mods, aiming at adding, correcting Chinese (simplified) translations. I welcome players who have the ability to translate it into Chinese with faithfulness, expressiveness and elegance. If you have better suggestions (whether it's right or not), just speak out!
+#这是Fabric模组的中文（简体）翻译资源包项目，旨在添加、更正中文（简体）翻译。我欢迎有能力将其翻译得信达雅的玩家来进行汉化工作。如果你有更好的建议（不管是否正确），请大胆的指出来吧！
